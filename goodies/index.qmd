@@ -1,0 +1,21 @@
+---
+title: "Goodies"
+---
+
+Some photos to sum it all up - surf's up, sausage.
+
+::: {layout-ncol=2}
+
+
+
+![](willowpaddle.jpg)
+
+![](mepaddle.jpg)
+
+![](bella2.jpg)
+
+
+![](rose.jpg)
+:::
+
+

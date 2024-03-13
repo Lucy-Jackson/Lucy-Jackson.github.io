@@ -1,0 +1,1 @@
+My research website. Made possible via the delightful tutorial by Marvin Schmitt: https://www.marvinschmitt.com/blog/website-tutorial-quarto/
