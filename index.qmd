@@ -25,7 +25,7 @@ My name is Lucy and I'm a current PhD researcher at the University of Glasgow. M
 
 I am currently looking at social behaviours such as attitudes, and our perceptions of those around us. I'll be looking at media effects on human cognition and behaviour, so that means I get to be let free on sparkly toys such as eye-tracking software. For my research, I use Python, R and PRAAT scripting for data analysis. 
 
-As well as a researcher, I teach English Language and Linguistics at the University of Glasgow. As a graduate teaching assistant, I cover topics such as phonetics, sociolinguistics, scots, historical linguistics, experimental design and statistics. I am also the social media co-ordinator for GULP (Glasgow University Laboratory of Phonetics).
+As well as a researcher, I teach English Language and Linguistics at the University of Glasgow. As a graduate teaching assistant, I cover topics such as phonetics, sociolinguistics, Scots, historical linguistics, experimental design and statistics. I am also the social media co-ordinator for GULP (Glasgow University Laboratory of Phonetics).
 
 
 Take a look around to see what I've been up to. Please feel free to contact me if you have any questions or would like to discuss potential projects. 
