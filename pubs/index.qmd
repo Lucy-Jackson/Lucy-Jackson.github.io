@@ -1,0 +1,63 @@
+---
+title: Academic Output
+---
+
+--- 
+format:
+  html:
+    toc: true
+    toc-location: left
+---
+<br>
+
+
+---
+
+
+## Publications/Presentations
+**Jackson, L. (2024)** Accentuating Identities: Phonetic Variation and Stereotypes in Mediated Glaswegian Performances. *Colloquium of the British Association of Academic Phoneticians. Cardiff, Wales.*
+
+**Jackson, L. (2023)** Game of phones: a socio-phonetic analysis of stylised media performance of Yorkshire English. In Radek Skarnitzl & Jan Volín (eds.) *Proceedings of the 20th International Congress of Phonetic Sciences, 2023. Prague, Czech Republic.* 1861-1865. Guarant. ||[pdf](https://guarant.cz/icphs2023/737.pdf){target='_blank'} 
+
+**Jackson, L. (2021)** A Game of Phones: An Investigation into Yorkshire accent Imitation in the Television Series, Game of Thrones. *13th Annual Conference of the UK Language Variation and Change. Glasgow, UK.*
+
+**Jackson, L. (2021)** A Game of Phones - Forensic implications: An Investigation into Yorkshire accent imitation in Game of Thrones. *29th Annual Conference of the International Association for Forensic Phonetics and Acoustics. Marburg, Germany. (Online)*
+
+**Jackson, L. & Gold, E. (2018).** An Investigation into Bradford speakers' ability to imitate a SSBE accent: Implications for forensic phonetics. *27th Annual Conference of the International Association for Forensic Phonetics and Acoustics. Huddersfield, UK.* **Winner of best student presentation award.**
+
+
+## Public Engagement 
+**Appearance in 'Phonetic adventures in Prague - Geoff Lindsey', 2023** || [html](https://www.youtube.com/watch?v=uDpVPj49R8w){target='_blank'} 
+
+**Accents in the spotlight: Uncovering our Unconscious Biases, 2023** - *3MT - Three Minute Thesis Competition, University of Glasgow.* **Winner of People's Choice Award** || [html](https://uofgpgrblog.com/pgrblog/2023/5/19/3-minute-thesis-2023-everything-you-need-to-know?rq=3mt){target='_blank'}
+
+**Accent Bias in the Spotlight, 2023** - Research Relay, *Scottish Graduate School of Arts and Humanities Doctoral event*.
+
+**Accents and Attitudes in the Spotlight, 2023** - *Glasgow University Laboratory of Phonetics Lab Lunch*.|| [html](https://www.gla.ac.uk/schools/critical/aboutus/resources/gulp/){target='_blank'}
+
+**Talking about Accent Bias, 2023** - *Anti-racist Club, Hutchesons' Grammar School. Glasgow, UK.*
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

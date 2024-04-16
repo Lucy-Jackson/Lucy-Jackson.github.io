@@ -1,0 +1,12 @@
+---
+title: "404"
+image: "img/cyberdog.jpg"
+---
+
+Well, this is embarrassing!
+
+My trusty sidekick, Willow the sausage dog, is working on the problem.
+<img src="img/cyberdog.jpg" style="height: 100%; width: 100%; object-fit: contain" onclick="window.open('', 'blank');"/>
+
+Try the search or navigate back to the homepage.
+
