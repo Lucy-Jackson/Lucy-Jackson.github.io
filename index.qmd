@@ -40,17 +40,18 @@ Take a look around to see what I've been up to. Please feel free to contact me i
  
 <h2 style='text-align: center;'>News</h2>
 
-- **25-27 March 2024**: I will be at [BAAP2024, March 2024](https://sites.google.com/view/baap-2024/en){target='_blank'} to talk about my recent research: 'Accentuating Identities: Phonetic Variation and Stereotypes in Mediated Glaswegian 
-Performances'.
+- **4 April 2024**: I spent some time at the Leibniz-Centre of General Linguistics [(ZAS)](https://www.leibniz-zas.de/en/about-us/institute){target='_blank'} institute in Berlin, Germany. I absolutely loved getting to see their phenomenal facilities and hear all about their [exciting work](https://www.leibniz-zas.de/en/research/research-areas){target='_blank'}. A huge thank you to [Sarah Wesolek](https://www.leibniz-zas.de/en/people/details/wesolek-sarah/sarah-wesolek){target='_blank'} and [Marzena Żygis](https://www.leibniz-zas.de/en/people/details/zygis-marzena/marzena-zygis){target='_blank'} for this [wunderbar opportunity!](https://twitter.com/lucejackson/status/1778757070717624754){target='_blank'}
 
-- **19 January 2024** We launched the *'PhDnetics network'*, with our first meeting at Queen Margaret University. A student-led network for PhD researchers and Postdocs in phonetics, across Scotland. Our vision is to have a community that shares expertise, knowledge and support. The day was a blast!
+- **25-27 March 2024**: I presented my research at the *Colloquium of the British Association of Academic Phoneticians* [(BAAP)](https://sites.google.com/view/baap-2024/en){target='_blank'} in Cardiff, Wales. Great to get feedback on my research and future experiments, catching up with friends and one too many Welsh cakes.
 
-- **23-25 August 2023** The Scottish sun was shining four our Residential trip to Millport, hosted by [SGSAH](https://www.sgsah.ac.uk/prospective/){target='_blank'}. A brilliant couple of days shared with fellow doctoral researchers across Scotland, with a delicious balance of researcher development workshops and... [cheese!](https://twitter.com/lucejackson/status/1695101875886940176){target='_blank'}
+- **19 January 2024**: We launched the *'PhDnetics network'*, with our first meeting at Queen Margaret University. A student-led network for PhD researchers and Postdocs in phonetics, across Scotland. Our vision is to have a community that shares expertise, knowledge and support. The day was a blast!
 
-- **7-11 August 2023**I was invited to give a talk at the [International Congress of Phonetic Sciences 2023](https://www.icphs2023.org/){target='_blank'} in Prague. This was based on my recent study 'Game of Phones: A sociophonetic analysis of stylised media performance of Yorkshire English'. I had a blast seeing old friends and making new. You might be able to spot me on Geoff's fantastic vlog: {{< video https://www.youtube.com/watch?v=uDpVPj49R8w
+- **23-25 August 2023**: The Scottish sun was shining four our Residential trip to Millport, hosted by [SGSAH](https://www.sgsah.ac.uk/prospective/){target='_blank'}. A brilliant couple of days shared with fellow doctoral researchers across Scotland, with a delicious balance of researcher development workshops and... [cheese!](https://twitter.com/lucejackson/status/1695101875886940176){target='_blank'}
+
+- **7-11 August 2023**: I was invited to give a talk at the [International Congress of Phonetic Sciences 2023](https://www.icphs2023.org/){target='_blank'} in Prague. This was based on my recent study 'Game of Phones: A sociophonetic analysis of stylised media performance of Yorkshire English'. I had a blast seeing old friends and making new. You might be able to spot me on Geoff's fantastic vlog: {{< video https://www.youtube.com/watch?v=uDpVPj49R8w
     title="Phonetic Adventures in Prague"
     aspect-ratio="16x9" >}}
 
-- **31 March 2023** I was delighted to win the People's Choice Award at the [University of Glasgow three-minute thesis (3MT) competition](https://uofgpgrblog.com/pgrblog/2023/5/19/3-minute-thesis-2023-everything-you-need-to-know?rq=3mt){target='_blank'}. I gave my 'speedy' talk on 'Accents in the spotlight: Uncovering our unconscious biases'.
+- **31 March 2023**: I was delighted to win the People's Choice Award at the [University of Glasgow three-minute thesis (3MT) competition](https://uofgpgrblog.com/pgrblog/2023/5/19/3-minute-thesis-2023-everything-you-need-to-know?rq=3mt){target='_blank'}. I gave my 'speedy' talk on 'Accents in the spotlight: Uncovering our unconscious biases'.
 
-- **22 March 2023** It was a great pleasure to be invited to talk at [Hutchesons' Grammar School](https://www.hutchesons.org/){target='_blank'}. Here I spoke about accent bias: its effects in society and how we can tackle this discrimination. Thank you for all the wonderful students and staff who welcomed me!
+- **22 March 2023**: It was a great pleasure to be invited to talk at [Hutchesons' Grammar School](https://www.hutchesons.org/){target='_blank'}. Here I spoke about accent bias: its effects in society and how we can tackle this discrimination. Thank you for all the wonderful students and staff who welcomed me!
