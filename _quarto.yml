@@ -34,7 +34,8 @@ website:
       - icon: envelope
         aria-label: email
         href: "mailto:l.jackson.4@research.gla.ac.uk"  
-  
+      - icon: github
+        href: https://github.com/Lucy-Jackson
   
 
 # Don't touch unless you know what you are doing :) ------------

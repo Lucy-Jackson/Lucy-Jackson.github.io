@@ -13,6 +13,9 @@ about:
     - icon: envelope
       text: Email
       href: "mailto:l.jackson.4@research.gla.ac.uk"
+    - icon: github
+      text: Github
+      href: https://github.com/Lucy-Jackson
     
 ---
 ::: {#about-block}
