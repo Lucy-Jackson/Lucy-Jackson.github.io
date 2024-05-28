@@ -23,9 +23,7 @@ about:
 
 # Hey, I'm Lucy!
 
-My name is Lucy and I'm a current PhD researcher at the University of Glasgow. My research areas include sociophonetics, speaker perception, cognition, accent imitation/disguise, and media studies. In essence, I love all things 'speechy'! I am interested in the link between social identity and language. Additionally, I am very interested in accent use in the media and accent bias.
-
-I am currently looking at social behaviours such as attitudes, and our perceptions of those around us. I'll be looking at media effects on human cognition and behaviour, so that means I get to be let free on sparkly toys such as eye-tracking software. For my research, I use Python, R and PRAAT scripting for data analysis. 
+My name is Lucy and I'm a current PhD researcher at the University of Glasgow. My research areas include sociophonetics, speaker perception, cognition, accent imitation/disguise and media exposure. I am interested in the link between social identity and language, specifically accent use in the media and accent bias. I will be using eye-tracking as implicit measures of cognition in my current research. 
 
 As well as a researcher, I teach English Language and Linguistics at the University of Glasgow. As a graduate teaching assistant, I cover topics such as phonetics, sociolinguistics, Scots, historical linguistics, experimental design and statistics. I am also the social media co-ordinator for GULP (Glasgow University Laboratory of Phonetics).
 
