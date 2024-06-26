@@ -40,7 +40,7 @@ Take a look around to see what I've been up to. Please feel free to contact me i
 
  
 <h2 style='text-align: center;'>News</h2>
-
+- **21 June 2024**: I was delighted to chair the session 'The Other Said What? Marginalised languages and identities', at the [SGSAH Symposium](https://www.sgsah.ac.uk/e_t/summer-school-2024/#:~:text=A%20series%20of%20live%20workshops,the%20ARC%2C%20University%20of%20Glasgow){target='_blank'}. It was a pleasure to see the research being conducted by fellow SGSAH-funded PhD researchers on this topic, and to also present my research on Mediated Glaswegian Identities.
 - **28 May 2024**: I spoke at the ZASx Talk Sessions hosted by [the Laboratory Phonology at Leibniz-ZAS, Berlin](https://x.com/LabPhon_ZAS/status/1793567310269341884){target='_blank'}. Here, I spoke about media impact on the social evaluations of speech and using eye-tracking techniques as an implicit measure. It was a great privilege to talk to the ZAS team and receive some extremely helpful feedback on my experimental design as I am in the throws of building my eye-tracking experiment. Thank you!
 
 
