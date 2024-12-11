@@ -2,13 +2,14 @@
 title: Research
 ---
 
---- 
+---
 format:
   html:
     toc: true
     toc-location: left
 ---
 <br>
+
 
 Here is a brief summary of my research projects, current and past. I have designed it in a way that is accessible to both linguists and non-linguists. 
 
@@ -20,13 +21,14 @@ For more information, please don’t hesitate to get in touch!
 :::
 
 ---
+
+
 ## Let's talk about Class - UK perceptions of social class and personality traits
 
-How do we measure bias and perceptions of people? To first do this, we need to use materials/stimuli that has been normed for various levels of social class and personality traits. This will be used as a crucial method in my implicit measures that aims to capture 'unconscious' biases.
+How do we measure bias and perceptions of people? To first do this, we need to use materials/stimuli that are *normed* for various levels of social class and personality traits. I will be using these normed materials in my eye-tracking experiment: a novel implicit method in examining unconscious accent biases.
 
-::: {.column-margin}
+
 ![](img/class7.png)
-:::
 
 
 To achieve this, I have recently conducted a large scale perceptual study of UK perceptions towards social class and personality traits. This is to create a novel, innovative database of 110 stimuli objects that have been normed for perceptions of social class (what is perceived as working-class or middle-class) and personality traits (behaviours representing low and high levels of a given trait, such as friendliness). 
