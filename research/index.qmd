@@ -20,36 +20,48 @@ For more information, please don’t hesitate to get in touch!
 :::
 
 ---
+## Let's talk about Class - UK perceptions of social class and personality traits
+
+How do we measure bias and perceptions of people? To first do this, we need to use materials/stimuli that has been normed for various levels of social class and personality traits. This will be used as a crucial method in my implicit measures that aims to capture 'unconscious' biases.
+
+::: {.column-margin}
+![](img/class7.png)
+:::
+
+
+To achieve this, I have recently conducted a large scale perceptual study of UK perceptions towards social class and personality traits. This is to create a novel, innovative database of 110 stimuli objects that have been normed for perceptions of social class (what is perceived as working-class or middle-class) and personality traits (behaviours representing low and high levels of a given trait, such as friendliness). 
+
+Data was collected from over 200 participants based in the UK. Class-based perceptions of occupations, food and lifestyle activities were collected, alongside perceptions of behaviours representing the traits of friendliness, trustworthiness, intelligence, authority and aggression. 
+
+This normed database of materials will be used in my own PhD research, but will be available online very soon. Please get in touch if you have any questions in the mean-time.
 
 
 ## Accentuating Identities
 
 For part of my PhD research, I am interested in how accents are used in the media. Accents can be used to build character identities, by allowing us to rely on social stereotypes present in society. Using accents and language varieties can be a useful technique to cultivate these fictional worlds, but it can lead to accent bias and accent-based stereotyping in society.
 
-To look at how accents are portrayed in the media, I have conducted a quantitative content analysis which focuses on the Glaswegian vernacular (GV) accent. 
+To look at how accents are portrayed in the media, I have conducted an empirical investigation into how the Glaswegian vernacular (GV) accent is portrayed in film. 
 
 ::: {.column-margin}
 ![Neds (2010, based in Glasgow)](img/neds.png)
 :::
 
-We analysed 5825 data points from 233 characters across 12 films, evaluating characters on 25 social and behavioural traits. The results show that GV speakers are downgraded in competence but upgraded in warmth, mirroring existing research on vernacular speakers.
-To have a look at the portrayals even further, data modelling took place to look at the predicted probability of a character’s portrayal, based on their accent. Let’s have a look at profanity use with the below (very pretty, and very colourful figure). 
+This research is the first quantitative examination of UK accent portrayals in film, with a focus on the GV accent.
+We analysed 5825 data points from 233 characters across 12 films, evaluating characters on 25 social and behavioural traits. 
 
+Significant patterns were found in the data, where GV accented characters were portrayed with considerably heightened levels of stigmatised behaviours (e.g., profanity use, substance use, aggression) and downgraded levels of competence (e.g., intelligence). This corresponds to what is already present in language attitude research on the perception of Glaswegians. 
+
+Data modelling was carried out to visualise these patterns even further. Like we can see below, with the predicted probability of an imaginary character, based on their accent. We see that GV has one of the largest proportions of '5', showing extreme levels of profanity use. 
 
 <img src="img/profanity.graph.png" style="height: 85%; width: 85%; object-fit: contain" onclick="window.open();"/>
 
-
-We can see a big difference between accent groups and associated profanity use. GV speakers are portrayed as extreme profanity users compared to those with Received Pronunciation or Standard Scottish English accents, who show minimal swearing. 
-
-Probabilistic ordinal logistic regression models were employed to analyse any significant effect of accent on attribute ratings of characters in the film dataset. Significant differences were found in Glaswegian Vernacular portrayals compared to standard Scottish (SSE, GSE) and English (SSBE, RP) accents. The GV accent differed significantly with portrayals of aggression, profanity use (extremely high use) and competence-based traits such as authority and intelligence (GV speakers are downgraded). 
-
-
-So, what does all this mean? We know that accents are a salient tool in creating fictional worlds, and we might even argue that accent-based stereotypes are part and parcel of the nature of depicting society. But, does this reliance on the social information imbued in accents further reinforce our biases and stereotypes?
+From this small dataset, significant patterns of accent bias are present. We know that accents are a salient tool in creating fictional worlds, and we might even argue that accent-based stereotypes are part and parcel of the nature of depicting society. But, does this reliance on the social information imbued in accents further reinforce our biases and stereotypes?
 
 
 That’s what I will be looking at next, when using eye-tracking techniques to investigate media influence on the real-time social associations of speech and speakers.
 
-I presented this research at [BAAP2024, March 2024](https://sites.google.com/view/baap-2024/en){target='_blank'}. For further details on this research, including videos and methods [click here](https://rpubs.com/Lucejackson/1163660){target='_blank'}.
+
+This study will be published shortly. For further detail on this, you can see my online talk for the Centre of Voice Studies, Aarhus University [here](https://www.youtube.com/watch?v=M77gz_ttPGE) [https://www.youtube.com/watch?v=M77gz_ttPGE]{target='_blank'}. For further details on this research, including videos and methods [click here](https://rpubs.com/Lucejackson/1163660){target='_blank'}.
 
 
 
