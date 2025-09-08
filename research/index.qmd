@@ -21,6 +21,31 @@ For more information, please don’t hesitate to get in touch!
 :::
 
 ---
+## The CAT's Out the Bag: A study of real-time sound change in the socially stratified Glaswegian CAT vowel
+
+Alongside my PhD, I am very interested in looking at sound change and different analytical methods we can use to get a better picture of what is going on. I looked at the CAT vowel quality in Glasgow over the last 60 years, and whether it is socially stratified in its quality between the working-class and middle-class communities. 
+
+The Glaswegian CAT vowel (equivalent to British English TRAP/BATH/PALM) has been shown to be relatively stable over time with a little bit of wobbling around, but not significantly so. However, recent research has found this vowel quality to be significant in marking community membership in Glaswegian high school, and political party affiliation. 
+
+My questions were to see if 1) the CAT vowel is socially stratified between working-class (WC) and middle-class (MC) Glaswegians, and 2) if this stratification changed over time. For example, sometimes the two communities may be quite similar, but in the next decade they may be extremely distinct. 
+
+I employed an alternate statistical method to look at sound change over time, with the use of generalised additive mixed models (GAMMs). This type of modelling allowed me to look at any non-linear relationships between the vowel quality over time, and plot two separate trajectories for the speech community – allowing me to identify any key points in time for sound change. In the below example of what GAMM modelling can facilitate, you can see two trajectories of the working-class CAT vowel (orange) and middle-class CAT vowel (grey) and their F2 values over time. 
+
+
+<img src="img/catdemonstration.png" style="height: 85%; width: 85%; object-fit: contain"/>
+
+To look at this, I created a large-corpora of forced-aligned speech data from multiple sources. Speech was obtained from 79 speakers across six decades, male and female, and aged 25-65 years of age (from Glasgow/greater Glasgow area). Vowel normalisation took place, and log-transformation of vowel duration. I then filtered the dataset to have just CAT vowels (that did not precede liquids /r,l/). This resulted in 9,777 individual tokens. 
+
+I created GAMMs to look at both vowel height (F1) and frontness/backness (F2). With this, I could model any overall changes that may fluctuate over time between the speech of the two social classes of Glasgow. 
+
+<img src="img/CAT_Aug.gif" style="height: 100%; width: 100%; object-fit: contain"/>
+
+For my presentation at UKLVC15, I plotted these trajectories as an animation to help visualise the trends in the data. I explored the significant stratification between the two classes, and trajectory divergence which saw the 2000s as a ‘temporal catalyst’ of change, and significant effect of time for the divergence between the classes. For this conference, I explored the social relevance of this timepoint (in a sociolinguistic variationist perspective), to see how changing social meaning, that was indexed by this vowel quality, could be contributing towards this sound change. This involved looking at emerging sub-cultures in Glasgow at this time, the role of the media in transmitting ideologies, and active negotiation of working-class and middle-class identity with the use of super-local variation such as CAT vowel quality (a very condensed down version). 
+
+
+For anymore information regarding this project, please do not hesitate to get in touch! 
+
+
 
 
 ## Let's talk about Class - UK perceptions of social class and personality traits
