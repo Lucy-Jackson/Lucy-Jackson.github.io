@@ -40,6 +40,12 @@ Take a look around to see what I've been up to. Please feel free to contact me i
 
  
 <h2 style='text-align: center;'>News</h2>
+
+- **2nd September 2025**: I presented my research at the biennial conference, [UKLVC](https://wp.lancs.ac.uk/uklvc15/) that looks at language variation and change. Here, I presented my study 'The CAT's out the bag' - which looked at CAT vowel quality sound change over the last 60 years, and demonstrated the use of Generalised Additive Mixed Models (GAMMs) in plotting non-linear relationships. You can find more info on this in my research tab or better yet, get in touch!
+::: {.column-margin}
+![ELL Seminar, Jan 2025](img/UKLVC.jpg)
+
+
 - **16th January 2025**: I was an invited speaker at the English Language & Linguistics Research Seminar (University of Glasgow). It was a great way to kick start 2025, and felt like a very big full-circle moment to be presenting my work on language in the media, at my own University. 
 
 ::: {.column-margin}
