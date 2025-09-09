@@ -47,7 +47,6 @@ For anymore information regarding this project, please do not hesitate to get in
 
 
 
-
 ## Let's talk about Class - UK perceptions of social class and personality traits
 
 How do we measure bias and perceptions of people? To first do this, we need to use materials/stimuli that are *normed* for various levels of social class and personality traits. I will be using these normed materials in my eye-tracking experiment: a novel implicit method in examining unconscious accent biases.
