@@ -2,7 +2,7 @@
 
 # website settings
 website:
-  title: "Lucy Jackson"                                # Your name
+  title: "LucyJackson"                                # Your name
   description: "PhD researcher in Linguistics and Social Science"   # A brief slogan (optional)
   image: img/my_image.jpg
   
