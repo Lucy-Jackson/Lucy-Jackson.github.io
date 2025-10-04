@@ -40,7 +40,7 @@ I created GAMMs to look at both vowel height (F1) and frontness/backness (F2). W
 For my presentation at [UKLVC15](https://wp.lancs.ac.uk/uklvc15/), I plotted these trajectories as an animation to help visualise the trends in the data. I explored the significant stratification between the two classes, and trajectory divergence which saw the 2000s as a ‘temporal catalyst’ of change, and significant effect of time for the divergence between the classes. For this conference, I explored the social relevance of this timepoint (in a sociolinguistic variationist perspective), to see how changing social meaning, that was indexed by this vowel quality, could be contributing towards this sound change. This involved looking at emerging sub-cultures in Glasgow at this time, the role of the media in transmitting ideologies, and active negotiation of working-class and middle-class identity with the use of super-local variation such as CAT vowel quality (a very condensed down version). 
 
 
-For anymore information regarding this project, please do not hesitate to get in touch! 
+For anymore information regarding this project, please do not hesitate to get in touch.
 
 
 
@@ -53,9 +53,7 @@ How do we measure bias and perceptions of people? To first do this, we need to u
 
 To achieve this, I conducted a large-scale perceptual study (over 200 participants). I explored their perceptions towards social class and judgements of personality traits according to exhibited social behaviours. This is to create a novel, database of 110 stimuli objects that are normed for the representative levels of social class (working-class vs middle-class) and social traits (low vs high level of a trait).
 
-This normed database of materials will be used in my own PhD research, but will be available online very soon. Please get in touch if you have any questions in the mean-time.
-
-Additionally to this, I explored variation in population biases according to individual's background (i.e., age, geographic origins, social class and sexual identity). This illustrated fascinating insights into bias formation and variation across society. Get in touch if you would like to know more!
+This normed database of materials will be used in my own PhD research, but will be available online very soon. Additionally to this, I explored variation in population biases according to individual's background (i.e., age, geographic origins, social class and sexual identity). This illustrated fascinating insights into bias formation and variation across society. Get in touch if you would like to know more!
 
 
 ## Accentuating Identities
