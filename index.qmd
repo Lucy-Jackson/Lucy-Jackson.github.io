@@ -23,12 +23,15 @@ about:
 
 # Hey, I'm Lucy!
 
-My name is Lucy and I'm a current PhD researcher at the University of Glasgow. My research areas include sociophonetics, speaker perception, cognition & attitudes, accent imitation/disguise and media exposure. I am interested in the link between social identity and language. I am specifically interested in accent use in the media and accent bias. I will be using eye-tracking as an implicit measure of attitudes (accent bias) in my current research. 
+My name is Lucy and I'm a current PhD researcher at the University of Glasgow.  I am interested in the link between social identity and language. My areas of expertise are sociophonetics, social cognition and behaviour analysis, and processes involved in the social categorisation of speech. I am specifically interested in accent use in the media and accent bias. 
+
+As part of my research, I am exploring the use of time-series analyses such as eye tracking as an implicit measure of implicit cognition and biases. I am also interested in the use of large-scale corpora and modelling for social and linguistic inquiry.
+
 
 As well as a researcher, I teach English Language and Linguistics at the University of Glasgow. As a graduate teaching assistant, I cover topics such as phonetics, sociolinguistics, Scots, historical linguistics, experimental design and statistics. I am also the social media co-ordinator for GULP (Glasgow University Laboratory of Phonetics).
 
 
-Take a look around to see what I've been up to. Please feel free to contact me if you have any questions or would like to discuss potential projects. 
+Take a look around to see what I've been up to! 
 
 
    
@@ -42,8 +45,10 @@ Take a look around to see what I've been up to. Please feel free to contact me i
 <h2 style='text-align: center;'>News</h2>
 
 - **2nd September 2025**: I presented my research at the biennial conference, [UKLVC](https://wp.lancs.ac.uk/uklvc15/) that looks at language variation and change. Here, I presented my study 'The CAT's out the bag' - which looked at CAT vowel quality sound change over the last 60 years, and demonstrated the use of Generalised Additive Mixed Models (GAMMs) in plotting non-linear relationships. You can find more info on this in my research tab or better yet, get in touch!
+
 ::: {.column-margin}
-![ELL Seminar, Jan 2025](img/UKLVC.jpg)
+![UKLVC15, Sep 2025](img/UKLVC.jpg)
+:::
 
 
 - **16th January 2025**: I was an invited speaker at the English Language & Linguistics Research Seminar (University of Glasgow). It was a great way to kick start 2025, and felt like a very big full-circle moment to be presenting my work on language in the media, at my own University. 

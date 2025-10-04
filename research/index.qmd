@@ -1,26 +1,23 @@
 ---
 title: Research
----
-
----
 format:
   html:
     toc: true
     toc-location: left
+    theme:
+      - pulse
+      - ../html/styles.scss
+    anchor-sections: true
+    fig-cap-location: margin
+    footnotes-hover: true
 ---
+
 <br>
-
-
 Here is a brief summary of my research projects, current and past. I have designed it in a way that is accessible to both linguists and non-linguists. 
 
 For more information, please don’t hesitate to get in touch! 
 
 
-::: {.column-margin}
-![Me speaking at ICPhS23](img/prague1.png)
-:::
-
----
 ## The CAT's Out the Bag: A study of real-time sound change in the socially stratified Glaswegian CAT vowel
 
 Alongside my PhD, I am very interested in looking at sound change and different analytical methods we can use to get a better picture of what is going on. I looked at the CAT vowel quality in Glasgow over the last 60 years, and whether it is socially stratified in its quality between the working-class and middle-class communities. 
@@ -54,12 +51,11 @@ How do we measure bias and perceptions of people? To first do this, we need to u
 
 ![](img/class7.png)
 
-
-To achieve this, I have recently conducted a large scale perceptual study of UK perceptions towards social class and personality traits. This is to create a novel, innovative database of 110 stimuli objects that have been normed for perceptions of social class (what is perceived as working-class or middle-class) and personality traits (behaviours representing low and high levels of a given trait, such as friendliness). 
-
-Data was collected from over 200 participants based in the UK. Class-based perceptions of occupations, food and lifestyle activities were collected, alongside perceptions of behaviours representing the traits of friendliness, trustworthiness, intelligence, authority and aggression. 
+To achieve this, I conducted a large-scale perceptual study (over 200 participants). I explored their perceptions towards social class and judgements of personality traits according to exhibited social behaviours. This is to create a novel, database of 110 stimuli objects that are normed for the representative levels of social class (working-class vs middle-class) and social traits (low vs high level of a trait).
 
 This normed database of materials will be used in my own PhD research, but will be available online very soon. Please get in touch if you have any questions in the mean-time.
+
+Additionally to this, I explored variation in population biases according to individual's background (i.e., age, geographic origins, social class and sexual identity). This illustrated fascinating insights into bias formation and variation across society. Get in touch if you would like to know more!
 
 
 ## Accentuating Identities
@@ -84,10 +80,7 @@ Data modelling was carried out to visualise these patterns even further. Like we
 From this small dataset, significant patterns of accent bias are present. We know that accents are a salient tool in creating fictional worlds, and we might even argue that accent-based stereotypes are part and parcel of the nature of depicting society. But, does this reliance on the social information imbued in accents further reinforce our biases and stereotypes?
 
 
-That’s what I will be looking at next, when using eye-tracking techniques to investigate media influence on the real-time social associations of speech and speakers.
-
-
-This study will be published shortly. For further detail on this, you can see my online talk for the Centre of Voice Studies, Aarhus University [here](https://www.youtube.com/watch?v=M77gz_ttPGE) [https://www.youtube.com/watch?v=M77gz_ttPGE]{target='_blank'}. For further details on this research, including videos and methods [click here](https://rpubs.com/Lucejackson/1163660){target='_blank'}.
+For anyone interested, analysis for this study used non-parametric testing and cumulative link mixed models. These are handy tools when dealing with ordinal data such as Likert data. 
 
 
 
@@ -141,10 +134,6 @@ In short, non-native speakers failed to consistently produce Yorkshire phonetic 
 And perhaps, we are all just playing the **game of phones** to decipher social meaning through language.
 
 <img src="img/shame.gif" style="height: 100%; width: 100%; object-fit: contain" onclick="window.open('', 'blank');"/>
-
-## Upcoming projects...
-
-Pssst... There's a few more things I'm working on in the background. I'll have them posted up here very soon. 
 
 
 
