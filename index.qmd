@@ -23,12 +23,13 @@ about:
 
 # Hey, I'm Lucy!
 
-My name is Lucy and I'm a current PhD researcher at the University of Glasgow.  I am interested in the link between social identity and language. My areas of expertise are sociophonetics, social cognition and behaviour analysis, and processes involved in the social categorisation of speech. I am specifically interested in accent use in the media and accent bias. 
+My name is Lucy, and I’m a current PhD researcher at the University of Glasgow. I study the link between social identity and language, with a focus on accent use, accent bias, sound change, sociolinguistic perception, and the social meanings people attach to speech.
 
-As part of my research, I am exploring the use of time-series analyses such as eye tracking as an implicit measure of implicit cognition and biases. I am also interested in the use of large-scale corpora and modelling for social and linguistic inquiry.
+I combine sociophonetics, social cognition, and behavioural analysis to understand how listeners perceive and categorise speech in real time. My methods include eye-tracking and time-series analysis, alongside large-scale and longitudinal corpus studies, allowing me to track patterns of language variation and sound change. I am particularly interested in priming effects from mediatised accent portrayals and enjoy applying creative analytical and modelling techniques to generate new insights from complex datasets.
+
+Alongside my research at GULP (Glasgow University Laboratory of Phonetics), I teach English Language and Linguistics at the University of Glasgow, covering topics such as phonetics, sociolinguistics, Scots, psycholinguistics, experimental design, and statistics.
 
 
-As well as a researcher, I teach English Language and Linguistics at the University of Glasgow. As a graduate teaching assistant, I cover topics such as phonetics, sociolinguistics, Scots, historical linguistics, experimental design and statistics. I am also the social media co-ordinator for GULP (Glasgow University Laboratory of Phonetics).
 
 
 Take a look around to see what I've been up to! 
